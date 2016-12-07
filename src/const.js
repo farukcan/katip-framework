@@ -3,14 +3,8 @@ const Project = {
 	version : "alpha"
 };
 
-const Settings = {
-	WebServer : {
-		Port : 1337,
-		Dir : "src/assets/WebServer/"
-	},
-	WebConsole : {
-		Dir : "src/assets/WebConsole/"
-	}
+var Settings = {
+
 };
 
 Framework.Settings.Restart = true;

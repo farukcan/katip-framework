@@ -11,6 +11,6 @@
   "dependencies": {
     "mime-types": "^2.1.12",
     "socket.io": "^1.4.8",
-    "syntax-error": "^1.1.6",
+    "syntax-error": "^1.1.6"
   }
 }

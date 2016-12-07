@@ -1,0 +1,16 @@
+{
+  "name": "katip-framework",
+  "version": "1.0.0",
+  "description": "a js server side framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "faruk can",
+  "license": "ISC",
+  "dependencies": {
+    "mime-types": "^2.1.12",
+    "socket.io": "^1.4.8",
+    "syntax-error": "^1.1.6",
+  }
+}
